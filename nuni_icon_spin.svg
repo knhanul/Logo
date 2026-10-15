@@ -8,7 +8,7 @@
   <style>
     .nuni-mark {
       transform-origin: 644px 644px;
-      animation: nuni-spin 2.2s linear infinite;
+      animation: nuni-spin 6.6s linear infinite;
     }
     @keyframes nuni-spin {
       from { transform: rotate(0deg); }
